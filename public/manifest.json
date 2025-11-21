@@ -1,0 +1,21 @@
+{
+  "name": "RetroSnap",
+  "short_name": "RetroSnap",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f1e9",
+  "theme_color": "#f5f1e9",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4187/4187226.png", 
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4187/4187226.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
