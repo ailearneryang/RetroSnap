@@ -1,0 +1,7 @@
+{
+  "name": "RetroSnap",
+  "description": "Vintage Polaroid Camera PWA for iPhone",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
